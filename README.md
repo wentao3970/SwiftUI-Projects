@@ -1,7 +1,8 @@
-# swiftui-projects
+# Swiftui-Project-Resources
+
 
 ## 1. Social media app
-  - CatGram Project
+  - *[CatGram Project]: https://github.com/wentao3970/CatGram
 
 ## 2. Chat app
   - LetsChat Project
