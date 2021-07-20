@@ -2,7 +2,7 @@
 
 
 ## 1. Social media app
-  - *[CatGram Project]: https://github.com/wentao3970/CatGram
+  * [CatGram Project][https://github.com/wentao3970/CatGram]
 
 ## 2. Chat app
   - LetsChat Project
