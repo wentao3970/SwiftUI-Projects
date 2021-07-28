@@ -5,7 +5,7 @@
   * [CatGram Project](https://github.com/wentao3970/CatGram)
 
 ## 2. Chat app
-  * [ChitChat Project](https://github.com/wentao3970/ChitChat-SwiftUI)
+  * [FlashChat Project](https://github.com/wentao3970/ChitChat-SwiftUI)
  
 ## 3. Weather search app
   * [WeatherApp using Combine framework](https://github.com/wentao3970/CombineWeatherApp)
